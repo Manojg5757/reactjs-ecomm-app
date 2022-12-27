@@ -1,0 +1,22 @@
+.navbar ul{
+    background-color: black;
+    height: 70px;
+    display: flex;
+    justify-content: right;
+    align-items: center;    
+}
+
+
+.navbar ul li{
+    list-style: none;
+    margin-right: 20px;
+    color: white;
+}
+
+li a:first-child{
+   font-size: 24px;
+}
+li a{
+    text-decoration: none;
+    color: white;
+}
